@@ -71,7 +71,7 @@ To help us fund development, we humbly ask that you cite the GROMACS papers:
 
 * GROMACS 4.5: a high-throughput and highly parallel open source
   molecular simulation toolkit
-  Sander Pronk, Szil谩rd P谩ll, Roland Schulz, Per Larsson, P盲r Bjelkmar,
+  Sander Pronk, Szilárd Páll, Roland Schulz, Per Larsson, Pär Bjelkmar,
   Rossen Apostolov, Michael R. Shirts, Jeremy C. Smith, Peter M. Kasson,
   David van der Spoel, Berk Hess, Erik Lindahl.
   Bioinformatics 29 (2013) pp. 845-54
@@ -79,13 +79,13 @@ To help us fund development, we humbly ask that you cite the GROMACS papers:
 
 * Tackling Exascale Software Challenges in Molecular Dynamics Simulations
   with GROMACS
-  Szil谩rd P谩ll, Mark J. Abraham, Carsten Kutzner, Berk Hess, Erik Lindahl
+  Szilárd Páll, Mark J. Abraham, Carsten Kutzner, Berk Hess, Erik Lindahl
   In S. Markidis & E. Laure (Eds.), Solving Software Challenges for Exascale,
-  Lecture Notes for Computer Science, 8759 (2015) pp. 3鈥?7
+  Lecture Notes for Computer Science, 8759 (2015) pp. 3-27
   DOI: https://doi.org/10.1007/978-3-319-15976-8_1
 
 * GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers
-  M. J. Abraham, T. Murtola, R. Schulz, S. P谩ll, J. C. Smith, B. Hess, E. Lindahl,
+  M. J. Abraham, T. Murtola, R. Schulz, S. Páll, J. C. Smith, B. Hess, E. Lindahl,
   SoftwareX, 1, (2015), 19-25
   DOI: https://doi.org/10.1016/j.softx.2015.06.001
 
